@@ -1,1 +1,7 @@
 learn git:
+
+change in branch1
+
+add in branch1
+
+change form branch2 to branch1
